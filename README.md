@@ -25,3 +25,6 @@ Write your code into main.py or import it from main.py.
 ![alt text](https://github.com/tayfunulu/WiFiManager/blob/master/WiFi_Manager.png)
 
 **web server based on code of CPOPP - https://github.com/cpopp/MicroPythonSamples
+
+
+![Preview]
