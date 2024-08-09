@@ -29,6 +29,9 @@ Write your code into main.py or import it from main.py.
 
 ![Preview](https://github.com/ArctoosR/WiFiManager_ESP32_Mado/blob/master/22.png)
 
+![Preview](https://github.com/ArctoosR/WiFiManager_ESP32_Mado/blob/master/31.png)
+
+
 ![Preview](https://github.com/ArctoosR/WiFiManager_ESP32_Mado/blob/master/24.png)
 
 Connect to WiFi manager by using a default password tayfunulu.
@@ -46,6 +49,6 @@ Connect to WiFi manager by using a default password tayfunulu.
 
 ![Preview](https://github.com/ArctoosR/WiFiManager_ESP32_Mado/blob/master/30.png)
 
-![Preview](https://github.com/ArctoosR/WiFiManager_ESP32_Mado/blob/master/31.png)
+
 
 
