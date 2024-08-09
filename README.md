@@ -27,4 +27,20 @@ Write your code into main.py or import it from main.py.
 **web server based on code of CPOPP - https://github.com/cpopp/MicroPythonSamples
 
 
-![Preview]
+![Preview](https://github.com/ArctoosR/WiFiManager_ESP32_Mado/blob/master/22.png)
+
+![Preview](https://github.com/ArctoosR/WiFiManager_ESP32_Mado/blob/master/24.png)
+
+
+![Preview](https://github.com/ArctoosR/WiFiManager_ESP32_Mado/blob/master/25.png)
+
+
+![Preview](https://github.com/ArctoosR/WiFiManager_ESP32_Mado/blob/master/26.png)
+
+
+![Preview](https://github.com/ArctoosR/WiFiManager_ESP32_Mado/blob/master/27.png)
+
+
+![Preview](https://github.com/ArctoosR/WiFiManager_ESP32_Mado/blob/master/28.png)
+
+
