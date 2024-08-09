@@ -42,12 +42,16 @@ Connect to WiFi manager by using a default password tayfunulu.
 ![Preview](https://github.com/ArctoosR/WiFiManager_ESP32_Mado/blob/master/26.png)
 
 
+![Preview](https://github.com/ArctoosR/WiFiManager_ESP32_Mado/blob/master/30.png)
+
+
+
 ![Preview](https://github.com/ArctoosR/WiFiManager_ESP32_Mado/blob/master/27.png)
 
 
 
 
-![Preview](https://github.com/ArctoosR/WiFiManager_ESP32_Mado/blob/master/30.png)
+
 
 
 
